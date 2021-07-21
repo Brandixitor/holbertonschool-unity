@@ -603,7 +603,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 5dc4bb1c58f267d4097fb1437e3c3158, type: 2}
     - target: {fileID: 5969144188845480162, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
       propertyPath: m_Name
-      value: Ball
+      value: Textured Ball
       objectReference: {fileID: 0}
     - target: {fileID: 5969144188845480190, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
       propertyPath: m_RootOrder
@@ -615,7 +615,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5969144188845480190, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.186764
+      value: 6.55
       objectReference: {fileID: 0}
     - target: {fileID: 5969144188845480190, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
       propertyPath: m_LocalPosition.z

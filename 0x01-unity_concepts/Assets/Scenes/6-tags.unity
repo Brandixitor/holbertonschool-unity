@@ -662,6 +662,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5969144188845480160, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9f9883c414c7c794cb831ba69d40ea80, type: 2}
     - target: {fileID: 5969144188845480162, guid: 07112b3940fdcc349b2148c845af813c, type: 3}
       propertyPath: m_Name
       value: Red Ball
